@@ -1,2 +1,4 @@
-# Ukrainian_diaspora_app
-High school project about distribution of Ukrainian diaspora around the world. All information and database are in Ukrainian
+# How to run a program
+1. Go to directory Cursova/bin/Debug
+2. Find file Cursova.exe
+3. Run it
