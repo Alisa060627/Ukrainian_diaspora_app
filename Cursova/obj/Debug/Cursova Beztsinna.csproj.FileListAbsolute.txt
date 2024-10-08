@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Cursova.Titul.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Cursova Beztsinna.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Cursova Beztsinna.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Cursova.Golovna.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Cursova.Menu.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Cursova Beztsinna.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Cursova.Card.resources
+C:\Users\HP\Desktop\Cursova\Cursova\bin\Debug\Vypuskna.exe.config
+C:\Users\HP\Desktop\Cursova\Cursova\bin\Debug\Vypuskna.exe
+C:\Users\HP\Desktop\Cursova\Cursova\bin\Debug\Vypuskna.pdb
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Cursova.First.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Properties.Resources.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.exe
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.pdb

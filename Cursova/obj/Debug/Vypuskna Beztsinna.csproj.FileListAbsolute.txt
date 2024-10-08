@@ -1,0 +1,66 @@
+C:\Users\HP\Desktop\Cursova\Cursova\bin\Debug\Vypuskna.exe.config
+C:\Users\HP\Desktop\Cursova\Cursova\bin\Debug\Vypuskna.exe
+C:\Users\HP\Desktop\Cursova\Cursova\bin\Debug\Vypuskna.pdb
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna Beztsinna.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Cursova.Golovna.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Properties.Resources.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna Beztsinna.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna Beztsinna.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.exe
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.pdb
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.First.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Menu.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Second.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Titul.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Card1.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Card2.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Card3.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Card4.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Fourth.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Third.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Base.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Canada.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.USA.resources
+C:\Users\HP\Desktop\Cursova\Cursova\obj\Debug\Vypuskna.Russia.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\bin\Debug\Vypuskna.exe.config
+C:\Users\HP\Desktop\КП\Cursova\Cursova\bin\Debug\Vypuskna.exe
+C:\Users\HP\Desktop\КП\Cursova\Cursova\bin\Debug\Vypuskna.pdb
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna Beztsinna.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Base.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Card1.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Card2.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Card3.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Card4.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.First.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Fourth.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Menu.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Second.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Third.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Titul.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Properties.Resources.resources
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna Beztsinna.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna Beztsinna.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.exe
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.pdb
+C:\Users\HP\Desktop\КП\Cursova\Cursova\obj\Debug\Vypuskna.Zmist.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\bin\Debug\Vypuskna.exe.config
+C:\Users\HP\Desktop\Vypuskna\Cursova\bin\Debug\Vypuskna.exe
+C:\Users\HP\Desktop\Vypuskna\Cursova\bin\Debug\Vypuskna.pdb
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna Beztsinna.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Base.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Card1.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Card2.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Card3.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Card4.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.First.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Fourth.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Menu.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Second.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Third.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Titul.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Properties.Resources.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.Zmist.resources
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna Beztsinna.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna Beztsinna.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.exe
+C:\Users\HP\Desktop\Vypuskna\Cursova\obj\Debug\Vypuskna.pdb
